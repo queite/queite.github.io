@@ -1,0 +1,39 @@
+h1 {
+    font-family:Georgia, 'Times New Roman', Times, serif
+}
+p {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+body {
+    background-color: #f4f3ee;
+    padding: 5% ;
+}
+.italico {
+    font-style: italic;
+}
+ul {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 18px;
+    width: auto;
+}
+.nome {
+    text-align: center;
+    color: #7C0F05;
+}
+#foto {
+    width: 150px;
+    float: left;
+    padding: 3px;
+    background-color: #7C0F05;
+    border-radius: 50px 0px 0px 70px;
+    margin-right: 30px;
+}
+.description {
+    height: 200px;
+}
+ul li:nth-child(odd) {
+    font-family: 'Lobster', cursive;
+}
+li {
+    width: auto;
+}   
