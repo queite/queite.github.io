@@ -1,0 +1,84 @@
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+
+body {
+  background-color: #a9c2b5;
+}
+
+header {
+  text-align: center;
+  padding: 15px;
+  font-family: 'Baloo Bhaijaan 2', cursive;
+  color: #732002;
+  font-size: 25px;
+}
+
+label {
+  padding: 15px;
+}
+
+input {
+  cursor: text;
+  font-size: 15px;
+  width: 300px;
+  height: 20px;
+}
+
+#tasks {
+  font-size: 25px;
+  font-weight: 700;
+  font-family: 'Baloo Bhaijaan 2', cursive;
+}
+
+.remove {
+  padding: 5px;
+  background-color: #89b6a5;
+  font-family: 'Baloo Bhaijaan 2', cursive;
+  border-radius: 20px;
+  margin: 10px;
+  cursor: pointer;
+}
+
+.selected {
+  background-color: gray;
+}
+
+.firstbuttons {
+  padding: 5px;
+  border-radius: 10px;
+  font-family: 'Baloo Bhaijaan 2', cursive;
+  font-weight: 700;
+  font-size: 15px;
+  margin: 7px;
+  cursor: pointer;
+}
+
+.midlebuttons {
+  padding: 5px;
+  border-radius: 10px;
+  font-family: 'Baloo Bhaijaan 2', cursive;
+  font-weight: 700;
+  font-size: 25px;
+  margin: px;
+  background-color: #196163;
+  color: #f2ea79;
+  cursor: move;
+}
+
+.completed {
+  text-decoration: line-through solid black;
+}
+
+.container , #funcionamento {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: 'Baloo Bhaijaan 2', cursive;
+}
+
+#lista-tarefas {
+  font-size: 20px;
+}
