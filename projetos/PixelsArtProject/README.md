@@ -13,7 +13,7 @@ In this block I learned about `DOM`, `JavaScript`, `Eventos` and `WebStorage`.
 `DOM` and `JavaScript` manipulation skills were worked on. I learned about `CSS selectors` , `HTML elements`, `Dom Events`.
 
 ### Project Preview
-![Pixels Art Project.](/img/pixelArt.gif "Project gif")
+![Pixels Art Project.](./img/pixelArt.gif "Project gif")
 
 ### Acesso ao projeto
 * [Página]()
