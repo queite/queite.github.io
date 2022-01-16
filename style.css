@@ -1,4 +1,91 @@
 * {
   margin: 0;
   padding: 0;
+  box-sizing: border-box;
+  list-style: none;
+  text-decoration: none
+}
+
+body {
+  background-color: rgb(18 , 18, 18);
+  color: rgb(179, 179, 179);
+  font-size: 1rem;
+  display: flex;
+  flex-direction: column;
+}
+
+header {
+  display: flex;
+  justify-content: space-evenly;
+  font-size: 1.5rem;
+}
+
+nav {
+  display: flex;
+  text-decoration: none;
+}
+
+nav ul {
+  display: flex;
+}
+
+nav ul li {
+  padding: 5%;
+}
+
+main {
+  margin: 3%;
+  display: flex;
+  justify-content: space-between;
+}
+
+#about {
+  background-color: rgb(49, 47, 54);
+  padding: 2%;
+  border-radius: 5px 40px;
+  display: flex;
+  flex-direction: column;
+  max-width: 60%;
+  align-self: center;
+}
+
+#about h2 {
+  color: rgb(87, 2, 2);
+  text-shadow: 0.1em 0.1em 0.2em rgb(179, 179, 179);
+  font-size: 2rem;
+  margin-bottom: 1%;
+  align-self: center;
+}
+
+#about p {
+  font-size: 1.2rem;
+}
+
+#projects {
+  display: flex;
+  justify-content: flex-end;
+  margin-left: 2%;
+}
+
+#projects ul {
+  font-size: 1.8rem;
+  font-weight: 700;
+}
+
+#projects ul li {
+  font-size: 1.4rem;
+}
+
+
+footer {
+  display: flex;
+  justify-content: flex-end;
+}
+
+footer p {
+  margin: 5%;
+  color: rgb(64, 2, 89);
+  font-weight: 600;
+  text-shadow: 0 0 0.2em rgb(179, 179, 179);
+  font-size: 1.2rem;
 }
