@@ -7,7 +7,7 @@ Implementation of functions to meet proposed requirements and/or unit tests to e
 * Write functions from tests already implemented, so they meet the proposed tests;
 * Write tests and functions applying TDD - Test Driven Development.
 
-* **Used tools:**
+* **:hammer_and_wrench: Used tools:**
   * Jest
   * NodeJS
   * VS Code
