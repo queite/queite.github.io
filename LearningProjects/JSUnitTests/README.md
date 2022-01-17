@@ -7,10 +7,7 @@
 * Write functions from already implemented tests, so they meet the proposed tests;
 * Write tests and functions applying `TDD - Test Driven Development`.
 
-<<<<<<< HEAD
-=======
 ---
->>>>>>> e1d8a6c714ceaefa33a0305d8dea1aa36adc87f5
 * **:hammer_and_wrench: Used tools:**
   * Jest
   * NodeJS
