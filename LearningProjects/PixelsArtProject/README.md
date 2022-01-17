@@ -1,6 +1,6 @@
 # PIXELS ART PROJECT
 
-Project build up in the Web Development Fundamentals Module' block of the [Trybe](https://www.betrybe.com/) course.
+Project build-up in the Web Development Fundamentals Module of the [Trybe](https://www.betrybe.com/) course.
 In this block I learned about `DOM`, `JavaScript`, `Eventos` and `WebStorage`.
 
 **Objective**: web page's implementation with a color palette that permits the creation of drawings in pixels.
