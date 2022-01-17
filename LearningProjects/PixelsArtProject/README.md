@@ -16,6 +16,6 @@ In this block I learned about `DOM`, `JavaScript`, `Eventos` and `WebStorage`.
 ![Pixels Art Project.](./img/pixelArt.gif "Project gif")
 
 ### Project Links
-* [Page](https://queite.github.io/projetos/PixelsArtProject/index.html)
+* [Page](https://queite.github.io/LearningProjects/PixelsArtProject/index.html)
 
 In every [Trybe](https://www.betrybe.com/) project are employed `ESLint`, `Cypress` and `GitHub`.
