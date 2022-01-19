@@ -14,7 +14,7 @@ Project build-up in the Web Development Fundamentals Module' block of the [Trybe
 * HTML
 .
 ### Project Preview
-![Pixels Art Project.](./img/pixelArt.gif "Project gif")
+![Pixels Art Project.](./images/trybewarts.png "Project gif")
 
 ### Project Links
 * [Page](https://queite.github.io/projetos/PixelsArtProject/index.html)
