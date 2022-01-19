@@ -12,14 +12,15 @@ Project build-up in the Web Development Fundamentals Module' block of the [Trybe
 * JavaScript
 * CSS
 * HTML
-.
-### Project Preview
-![Pixels Art Project.](./images/trybewarts.png "Project gif")
+
+---
 
 ### Project Links
-* [Page](https://queite.github.io/projetos/PixelsArtProject/index.html)
-* [Code](https://github.com/queite/queite.github.io/tree/main/projetos/PixelsArtProject)
+* [Page](https://queite.github.io/LearningProjects/Trybewarts/index.html)
 
-In every [Trybe](https://www.betrybe.com/) project are employed `linters`, `Cypress` `Git` and `GitHub`.
+---
 
-Project created in collaboration with [Vinicius Ramalho](https://github.com/VinRamalho).
+### Project Preview
+<img src="./images/trybewarts.png" width="800" />
+
+All [Trybe](https://www.betrybe.com/) projects use `linters`, `Cypress` `Git` and `GitHub`.
