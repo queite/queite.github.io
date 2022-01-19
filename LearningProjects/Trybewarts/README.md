@@ -21,6 +21,6 @@ Project build-up in the Web Development Fundamentals Module' block of the [Trybe
 ---
 
 ### Project Preview
-<img src="./images/trybewarts.png" width="800" />
+<img src="./images/trybewarts2.png" width="800" />
 
 All [Trybe](https://www.betrybe.com/) projects use `linters`, `Cypress` `Git` and `GitHub`.
