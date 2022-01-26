@@ -11,7 +11,6 @@ function getEmployeeByName(employeeInfo) {
     return employees.find((person) => person.id.includes(employeeInfo.id));
   }
 }
-// console.log(getEmployeeByName({ name: 'Spry' }));
 
 // Cria objeto de saída
 function createCoverageObj(employeeInfo) {
@@ -26,7 +25,6 @@ function createCoverageObj(employeeInfo) {
     locations: location,
   };
 }
-// console.log(createCoverageObj({ name: 'Spry' }));
 
 // Gera objeto de todos os funcionários. Ajuda com a estrutura deste forEach no repositório https://github.com/tryber/sd-015-b-project-zoo-functions/blob/Samuel-Silva-zoo-functions-project/src/getEmployeesCoverage.js
 function coverage() {

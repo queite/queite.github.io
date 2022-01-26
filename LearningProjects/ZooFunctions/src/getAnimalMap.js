@@ -114,11 +114,7 @@ function returnFilter(options) {
 }
 
 function getAnimalMap(options) {
-  if (!options) return getLocation();
-
-  if (!options.includeNames) {
-    return getLocation();
-  }
+  if (!options || !options.includeNames) return getLocation();
   return returnFilter(options);
 }
 
