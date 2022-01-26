@@ -14,3 +14,6 @@ Here you can find some of my learning projects at [Trybe](https://www.betrybe.co
 
 * **JS Unit Tests** (01/2022)
   * [About the project and Code](https://github.com/queite/queite.github.io/tree/main/LearningProjects/JSUnitTests)
+
+* **Zoo Functions** (01/2022)
+  * [About the project and Code](https://github.com/queite/queite.github.io/tree/main/LearningProjects/ZooFunctions)
