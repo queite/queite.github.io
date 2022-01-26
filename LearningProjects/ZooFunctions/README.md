@@ -1,4 +1,4 @@
-# ZOO FUNCTIONS PROJECT
+# ZOO FUNCTIONS PROJECT :lion:
 
 Implementation of functions to meet proposed requirements.
 
@@ -9,7 +9,7 @@ Implementation of functions to meet proposed requirements.
 * Learn to use `Higher Order Functions` together.
 * To read `Unit Tests` and create adequate solutions.
 
-* **Used tools:**
+* :hammer_and_wrench: **Used tools:**
   * JavaScript
   * NodeJS
   * VS Code
