@@ -19,7 +19,7 @@ Construct a Dinamic shopping cart using data from an API
 ---
 
 ### Project Links
-* [Page]()
+* [Page](https://queite.github.io/LearningProjects/ShoppingCart/index.html)
 
 ---
 
