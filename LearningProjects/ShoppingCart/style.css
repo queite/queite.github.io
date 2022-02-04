@@ -214,9 +214,9 @@ body {
 }
 
 .loading {
-  width:100px;
-  height:100px;
-  position:absolute;
-  top:30%;
-  left:25%;
+  width: 100px;
+  height: 100px;
+  position: absolute;
+  top: 30%;
+  left: 25%;
 }
