@@ -2,7 +2,7 @@
 
 Project build-up in the Web Development Fundamentals Module' block of the [Trybe](https://www.betrybe.com/) course.
 
-Construct a Dinamic shopping cart using data from an API
+This is a dinamic shopping cart using data from an API.
 
 **Objective**: put into practice the following abilities:
 * Work with API
