@@ -1,0 +1,122 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+
+}
+
+body {
+  background-image: url('./images/background.png');
+  color: gainsboro;
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+}
+
+header {
+  display: flex;
+  justify-content: center;
+  margin-top: 3%;
+}
+
+header h1 {
+  color: rgb(237, 185, 102);
+  font-size: 3rem;
+  text-shadow: 0.1em 0.1em 0.2em rgb(254, 245, 216);
+}
+
+.solar-system {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin: 3%;
+  text-align: center;
+}
+
+.solar-system h2 {
+  color: rgb(217, 201, 195);
+  font-size: 2rem;
+  margin: 2%;
+  text-shadow: 0.1em 0.1em 0.2em rgb(56, 47, 115);
+}
+
+.solar-system img {
+  width: 150px;
+}
+
+.solar-system img:hover {
+  cursor: pointer;
+  transform: scale(1.2);
+  transition: 1s;
+}
+
+.solar-system section {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.solar-system section div {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.missions section div {
+  border: 1px #f5d5e0 inset;
+  border-radius: 20px;
+  box-shadow: inset 0 0 1em rgb(132, 135, 191) , 0 0 1em rgb(166, 166, 166);
+  display: flex;
+  flex-direction: column;
+  margin: 1%;
+  padding: 2%;
+  width: 30%;
+}
+
+.solar-system section div:hover {
+  color: rgb(237, 185, 102);
+  text-shadow: 0.1em 0.1em 0.2em rgb(132, 135, 191);
+  transition: 1s;
+}
+
+.solar-system section div p {
+  font-weight: 700;
+}
+
+.missions {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin: 3%;
+}
+
+.missions h2 {
+  color: rgb(217, 201, 195);
+  font-size: 2rem;
+  margin-bottom: 4%;
+  margin-top: 4%;
+  text-align: center;
+  text-shadow: 0.1em 0.1em 0.2em rgb(56, 47, 115);
+}
+
+.missions section {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.missions section div:hover {
+  box-shadow: inset 0 0 1em #f5d5e0 , 0 0 1em rgb(248, 228, 175);
+  cursor: pointer;
+  transform: scale(1.2);
+  transition: 1s;
+}
+
+.missions section div h3 {
+  color: rgb(248, 228, 175);
+  font-size: 1.2rem;
+}
+
+.missions section div p {
+  font-size: 0.8rem;
+}
