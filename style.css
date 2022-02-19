@@ -1,3 +1,4 @@
+
 * {
   margin: 0;
   padding: 0;
@@ -6,9 +7,17 @@
   text-decoration: none
 }
 
+:root {
+  --darkgray: #121212
+  --darkgray2: #212121
+  --darkgray3: #424242
+  --gray: #bdbdbd
+  --gray1: #f5f5f5
+ }
+
 body {
-  background-color: rgb(18 , 18, 18);
-  color: rgb(179, 179, 179);
+  background-color: var(--darkgray);
+  color: var(--gray);
   font-size: 1rem;
   display: flex;
   flex-direction: column;
