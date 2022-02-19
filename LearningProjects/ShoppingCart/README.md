@@ -1,6 +1,6 @@
 # SHOPPING CART :shopping_cart:
 
-Project build-up in the Web Development Fundamentals Module' block of the [Trybe](https://www.betrybe.com/) course.
+Project build-up in the Web Development Fundamentals Module at [Trybe](https://www.betrybe.com/).
 
 This is a dinamic shopping cart using data from an API.
 

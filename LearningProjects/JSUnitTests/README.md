@@ -15,4 +15,4 @@
 ---
 In every [Trybe](https://www.betrybe.com/) project are employed `linters`, `Cypress` `Git` and `GitHub`.
 
-Project build-up in the Web Development Fundamentals Module of the [Trybe](https://www.betrybe.com/) course.
+Project build-up in the Web Development Fundamentals Module at [Trybe](https://www.betrybe.com/).
