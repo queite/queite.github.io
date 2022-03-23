@@ -4,9 +4,13 @@ Here you can find some of my learning projects at [Trybe](https://www.betrybe.co
 
 ## :atom: Front-end Module Projects
 
+* **React Testing Library** (03/2022)
+  * [About the project and Code](https://github.com/queite/RTL-project)
+
 * **Solar System** (02/2022)
   * [Page](https://queite.github.io/solar-system/)
   * [About the project and Code](https://github.com/queite/solar-system)
+
 <br>
 
 ## :woman_technologist: Web Development Fundamentals Module Projects
