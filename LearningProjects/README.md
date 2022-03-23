@@ -6,6 +6,7 @@ Here you can find some of my learning projects at [Trybe](https://www.betrybe.co
 
 * **React Testing Library** (03/2022)
   * [About the project and Code](https://github.com/queite/RTL-project)
+<br>
 
 * **Solar System** (02/2022)
   * [Page](https://queite.github.io/solar-system/)
