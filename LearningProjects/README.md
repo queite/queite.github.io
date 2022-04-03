@@ -4,6 +4,12 @@ Here you can find some of my learning projects at [Trybe](https://www.betrybe.co
 
 ## :atom: Front-end Module Projects
 
+* **TrybeWallet** (04/2022)
+  * [Page](https://queite.github.io/trybewallet/#/)
+  * [About the project and Code](https://github.com/queite/trybewallet)
+
+<br>
+
 * **React Testing Library** (03/2022)
   * [About the project and Code](https://github.com/queite/RTL-project)
 <br>
