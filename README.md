@@ -4,6 +4,13 @@ Here you can find some of my learning projects at [Trybe](https://www.betrybe.co
 
 ## :atom: Front-end Module Projects
 
+* **Trivia** (04/2022) - Group Project
+  * [Page](https://queite.github.io/trivia/)
+  * [About the project and Code](https://github.com/queite/trivia)
+  * Group Project with [Alector](https://github.com/AlectorAlexander) and [Jacqueline](https://github.com/Jacqueline-Silva)
+
+<br>
+
 * **TrybeWallet** (04/2022)
   * [Page](https://queite.github.io/trybewallet/#/)
   * [About the project and Code](https://github.com/queite/trybewallet)
