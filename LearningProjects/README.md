@@ -2,6 +2,12 @@
 
 Here you can find some of my learning projects at [Trybe](https://www.betrybe.com/).
 
+##  👩🏻‍💻 Back-end Module Projects
+
+* **Docker ToDo List** (05/2022)
+  * [About the project and Code](https://github.com/queite/docker-project)
+<br>
+
 ## :atom: Front-end Module Projects
 
 * **Trivia** (04/2022) - Group Project
