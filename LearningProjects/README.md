@@ -23,6 +23,11 @@ Here you can find some of my learning projects at [Trybe](https://www.betrybe.co
 
 <br>
 
+* **TrybeTunes** (03/2022)
+  * [Page](https://queite.github.io/trybetunes/)
+  * [About the project and Code](https://github.com/queite/trybetunes)
+<br>
+
 * **React Testing Library** (03/2022)
   * [About the project and Code](https://github.com/queite/RTL-project)
 <br>
