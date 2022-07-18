@@ -4,6 +4,10 @@ Here you can find some of my learning projects at [Trybe](https://www.betrybe.co
 
 ##  👩🏻‍💻 Back-end Module Projects
 
+* **Blogs API** (07/2022)
+  * [About the project and Code](https://github.com/queite/blogs-api)
+<br>
+
 * **Store Manager** (07/2022)
   * [About the project and Code](https://github.com/queite/store-manager)
 <br>
