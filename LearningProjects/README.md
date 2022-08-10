@@ -4,6 +4,10 @@ Here you can find some of my learning projects at [Trybe](https://www.betrybe.co
 
 ##  👩🏻‍💻 Back-end Module Projects
 
+* **Trybers & Dragons** (08/2022)
+  * [About the project and Code](https://github.com/queite/trybers-and-dragons)
+<br>
+
 * **Blogs API** (07/2022)
   * [About the project and Code](https://github.com/queite/blogs-api)
 <br>
