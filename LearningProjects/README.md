@@ -1,6 +1,6 @@
 ## Projects :book:
 
-Here you can find some of my learning projects at [Trybe](https://www.betrybe.com/).
+Here you can find some of my projects.
 
 ##  👩🏻‍💻 Back-end Module Projects
 
