@@ -1,34 +1,55 @@
-## Projects :book:
+# Projects 📚
 
-Here you can find some of my learning projects at [Trybe](https://www.betrybe.com/).
+Here you can find a list of some of my projects.
 
-##  👩🏻‍💻 Back-end Module Projects
+<br>
+
+<!-- # 🚧 Under construction -->
+
+
+# 📈 Computer Science Module Projects
+
+* **Job Insights** (10/2022)
+  * [About the project and Code](https://github.com/queite/car-shop)
+<br>
+Job Insights is web app built with Flask.
+🎯 The goal was implement analysis from a data set about jobs and write tests for implementation of a data analysis.
+
+<br>
+
+#  👩🏻‍💻 Back-end Module Projects
 
 * **Car Shop** (09/2022)
   * [About the project and Code](https://github.com/queite/car-shop)
+
 <br>
 
 * **Trybe Futebol Clube** (08/2022)
   * [About the project and Code](https://github.com/queite/trybe-futebol-clube)
+
 <br>
 
 * **Trybers & Dragons** (08/2022)
   * [About the project and Code](https://github.com/queite/trybers-and-dragons)
+
 <br>
 
 * **Blogs API** (07/2022)
   * [About the project and Code](https://github.com/queite/blogs-api)
+
 <br>
 
 * **Store Manager** (07/2022)
   * [About the project and Code](https://github.com/queite/store-manager)
+
 <br>
 
 * **Docker ToDo List** (05/2022)
   * [About the project and Code](https://github.com/queite/docker-project)
+
 <br>
 
-## :atom: Front-end Module Projects
+# ⚛️ Front-end Module Projects
 
 * **Trivia** (04/2022) - Group Project
   * [Page](https://queite.github.io/trivia/)
@@ -46,10 +67,12 @@ Here you can find some of my learning projects at [Trybe](https://www.betrybe.co
 * **TrybeTunes** (03/2022)
   * [Page](https://queite.github.io/trybetunes/)
   * [About the project and Code](https://github.com/queite/trybetunes)
+
 <br>
 
 * **React Testing Library** (03/2022)
   * [About the project and Code](https://github.com/queite/RTL-project)
+
 <br>
 
 * **Solar System** (02/2022)
@@ -58,28 +81,32 @@ Here you can find some of my learning projects at [Trybe](https://www.betrybe.co
 
 <br>
 
-## :woman_technologist: Web Development Fundamentals Module Projects
+# 👩‍💻 Web Development Fundamentals Module Projects
 
 * **Shopping Cart** (02/2022)
   * [Page](https://queite.github.io/LearningProjects/ShoppingCart/index.html)
   * [About the project and Code](https://github.com/queite/queite.github.io/tree/main/LearningProjects/ShoppingCart)
+
 <br>
 
 * **Zoo Functions** (01/2022)
   * [About the project and Code](https://github.com/queite/queite.github.io/tree/main/LearningProjects/ZooFunctions)
+
  <br>
- 
+
 * **JS Unit Tests** (01/2022)
-  * [About the project and Code](https://github.com/queite/queite.github.io/tree/main/LearningProjects/JSUnitTests) 
+  * [About the project and Code](https://github.com/queite/queite.github.io/tree/main/LearningProjects/JSUnitTests)
+
  <br>
- 
+
 * **Trybewarts** (01/2022)
   * [Page](https://queite.github.io/LearningProjects/Trybewarts/index.html)
   * [About the project and Code](https://github.com/queite/queite.github.io/tree/main/LearningProjects/Trybewarts)
- <br>  
- 
+
+ <br>
+
 * **Pixel Art** (12/2021)
   * [Page](https://queite.github.io/LearningProjects/PixelsArtProject/index.html)
   * [About the project and Code](https://github.com/queite/queite.github.io/tree/main/LearningProjects/PixelsArtProject)
+
  <br>
- 
