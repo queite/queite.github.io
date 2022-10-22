@@ -11,7 +11,6 @@ Here you find a list of some of my projects.
 
 * **Job Insights** (10/2022)
   * [About the project and Code](https://github.com/queite/car-shop)
-<br>
 Job Insights is web app built with Flask.
 🎯 The goal was implement analysis from a data set about jobs and write tests for implementation of a data analysis.
 
