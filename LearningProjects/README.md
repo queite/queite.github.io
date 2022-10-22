@@ -1,6 +1,6 @@
 # Projects 📚
 
-Here you can find a list of some of my projects.
+Here you find a list of some of my projects.
 
 <br>
 
