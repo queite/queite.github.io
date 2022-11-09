@@ -7,7 +7,7 @@ Here you find a list of some of my projects.
 
 # 📈 Computer Science Module Projects
 
-* **Inventory Report** (10/2022)
+* **Tech News** (11/2022)
   * [About the project and Code](https://github.com/queite/tech-news)<br>
 Data scraping from Trybe blog.
 
@@ -29,32 +29,38 @@ Job Insights is web app built with Flask.
 #  👩🏻‍💻 Back-end Module Projects
 
 * **Car Shop** (09/2022)
-  * [About the project and Code](https://github.com/queite/car-shop)
+  * [About the project and Code](https://github.com/queite/car-shop)<br>
+CRUD API to manage a car dealership with MongoDB database 🎯 The goal was to apply the principles of Object Oriented Programming (OOP) 🧪 The API is tested using Sinon, Mocha and Chai.
 
 <br>
 
 * **Trybe Futebol Clube** (08/2022)
-  * [About the project and Code](https://github.com/queite/trybe-futebol-clube)
+  * [About the project and Code](https://github.com/queite/trybe-futebol-clube)<br>
+An informative website about football matches and rankings
 
 <br>
 
 * **Trybers & Dragons** (08/2022)
-  * [About the project and Code](https://github.com/queite/trybers-and-dragons)
+  * [About the project and Code](https://github.com/queite/trybers-and-dragons)<br>
+Develop a Role Playing Game (RPG) to apply OOP principles.
 
 <br>
 
 * **Blogs API** (07/2022)
-  * [About the project and Code](https://github.com/queite/blogs-api)
+  * [About the project and Code](https://github.com/queite/blogs-api)<br>
+REST API to manage a blog with the MSC software architecture using Node, Express and Sequelize.
 
 <br>
 
 * **Store Manager** (07/2022)
-  * [About the project and Code](https://github.com/queite/store-manager)
+  * [About the project and Code](https://github.com/queite/store-manager)<br>
+API to manage sales with the MSC software architecture and test it. Presents all the CRUD operations.
 
 <br>
 
 * **Docker ToDo List** (05/2022)
-  * [About the project and Code](https://github.com/queite/docker-project)
+  * [About the project and Code](https://github.com/queite/docker-project)<br>
+This project goal was Dockerizing an application.
 
 <br>
 
@@ -63,7 +69,7 @@ Job Insights is web app built with Flask.
 * **Trivia** (04/2022) - Group Project
   * [Page](https://queite.github.io/trivia/)
   * [About the project and Code](https://github.com/queite/trivia)
-  * Group Project with [Alector](https://github.com/AlectorAlexander) and [Jacqueline](https://github.com/Jacqueline-Silva)
+  * Contributors: [Alector](https://github.com/AlectorAlexander) and [Jacqueline](https://github.com/Jacqueline-Silva)
 
 <br>
 
