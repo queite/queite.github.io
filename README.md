@@ -8,6 +8,12 @@ Here you find a list of some of my projects.
 # 📈 Computer Science Module Projects
 
 * **Inventory Report** (10/2022)
+  * [About the project and Code](https://github.com/queite/tech-news)<br>
+Data scraping from Trybe blog.
+
+<br>
+
+* **Inventory Report** (10/2022)
   * [About the project and Code](https://github.com/queite/inventory-report)<br>
 Report generator built with Object-Oriented Programming (OOP) that receives as entry files with data from and an inventory and generate, as output, a report.
 
