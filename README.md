@@ -4,6 +4,27 @@ Here you find a list of some of my projects.
 
 <br>
 
+# 🚧 Under construction
+<div>
+  <h2>Web Site Mente de Yoga</h2>
+  <ul>
+    <li><a href='https://github.com/queite/mente-de-yoga'>Mente de yoga frontend</a></li>
+    <li><a href='https://github.com/queite/mente-de-yoga-api'>Mente de yoga users API</a></li>
+    <h3>Collaborators:</h3>
+    <a href='https://github.com/Tomas-Breuckmann'>Tomas Breuckmann</a><br>
+    <a href='https://github.com/queite'>Queite Schneider Castiglioni</a>
+  </ul>
+</div>
+
+<!-- * **Web Site Mente de Yoga**
+  * [Mente de yoga frontend](https://github.com/queite/mente-de-yoga)
+  * [Mente de yoga users API](https://github.com/queite/mente-de-yoga-api)<br>
+
+Collaborators:
+* [Tomas Breuckmann](https://github.com/Tomas-Breuckmann)
+* [Queite Schneider Castiglioni](https://github.com/queite) -->
+
+<br>
 
 # 📈 Computer Science Module Projects
 
