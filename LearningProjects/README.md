@@ -41,6 +41,10 @@ Job Insights is web app built with Flask.
 
 #  👩🏻‍💻 Back-end Module Projects
 
+* **Cash-tranfer** (11/2022)
+    * [About the project and Code](https://github.com/queite/cash-transfer)<br>
+  Dockerized full stack app to manage user registration and bank transfer.
+
 * **Car Shop** (09/2022)
   * [About the project and Code](https://github.com/queite/car-shop)<br>
 CRUD API to manage a car dealership with MongoDB database 🎯 The goal was to apply the principles of Object Oriented Programming (OOP) 🧪 The API is tested using Sinon, Mocha and Chai.
